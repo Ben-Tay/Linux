@@ -5,7 +5,9 @@
 > 1960s (Introduction of eletric transistors to route electrons)
 
 > 1963 (Introduction of integrated circuits, magnetic disks, and punch cards)
-* Punch cards `acted as an OS` 
+* Punch cards `acted as an OS` which stored data and were used to load and unload information on computers using a punch card reader
+* Punch cards could hold up to `80 characters` and were stored in boxes
+* Each box had around 2000 punchcards and were loaded on to a pallet that held around 45 boxes
 * When operating systems and punch cards were introduced, the roles of the programmer and the operator became distinct. The programmer was responsible for writing code, while the operator handled the physical input and output of punch cards, and later, the operation of the computer systems.
 * IBM/360 was a compatible device back then
 
