@@ -52,11 +52,6 @@
 * `/dev/network`
 
 ### Commands to use in file system
-* `pwd` - print working directory of where u are in
-* `ls` - lists the files & directories inside working directory
-* `ls -a` - shows all files and hidden files in pwd 
-* `ls -d /usr/include/s*` - shows all files in this path that begines with letter s
-* `mount` - lists the name of the file system used
 * `cd / ` - change directory to root directory
 * `cd ` - cd alone would always bring us to the home user folder
 * `cd ./sys` - from curr directory change to sys 
